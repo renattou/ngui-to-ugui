@@ -25,3 +25,7 @@ Thumbs.db.meta
 
 # VSCode files
 .vscode/
+
+# NGUI
+Assets/NGUI/
+Assets/NGUI.meta
